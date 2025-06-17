@@ -1,7 +1,6 @@
 # Lane_line-detection
 
-![Uploading Untitled video - Made with Clipchamp (3).gif…]()
-
+![Uploading Untitled video - Made with Clipchamp (4).gif…]()
 
 
 
@@ -36,6 +35,10 @@ Car Detection:
 YOLOv8 (yolov8n.pt)
 
 Distance estimation using bounding box width
+
+
+![Uploading Untitled video - Made with Clipchamp (3).gif…]()
+
 
 Visualization: Overlays lanes, curvature, center offset, car boxes, and labels in real time.
 
