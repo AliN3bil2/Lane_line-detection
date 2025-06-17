@@ -1,7 +1,7 @@
 # Lane_line-detection
 
-
 ![Uploading Untitled video - Made with Clipchamp (3).gif…]()
+
 
 
 
@@ -57,7 +57,7 @@ warp(): Bird’s-eye view transform for lane detection
 
 These improve detection of lanes and vehicles under challenging conditions.
 
-⚙️ Execution Pipeline
+ Execution Pipeline
 python
 Copy
 Edit
@@ -76,7 +76,7 @@ Object Detection: Detects cars using YOLO, estimates distance
 
 Visualization: Shows lane overlays, bounding boxes, and metrics
 
-📂 Dataset
+ Dataset
 Chessboard Images
 C:\Users\nabil\Downloads\archive\roboflow\chess
 Used for calibration (9×6 grid)
