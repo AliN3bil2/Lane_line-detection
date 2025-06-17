@@ -1,5 +1,10 @@
 # Lane_line-detection
 
+
+![Uploading Untitled video - Made with Clipchamp (3).gif…]()
+
+
+
  Lane and Car Detection in Sandstorm Conditions
 An advanced computer vision system for autonomous driving assistance, capable of detecting lanes and vehicles even in adverse weather conditions like sandstorms.
 
